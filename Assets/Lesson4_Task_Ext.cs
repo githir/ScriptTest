@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class Boss
 {
-    private int hp = 100;          // 体力
+    private int hp = 100;   // 体力
     private int power = 25; // 攻撃力
-    private int mp = 53; // 攻撃力
+    private int mp = 53;    // 魔力
 
     // 攻撃用の関数
     public void Attack()
